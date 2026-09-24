@@ -42,4 +42,13 @@ The project was presented at a School Science Expo and received appreciation fro
 
 ## Project Photos
 
-Photos of the working model and demonstration are included in this repository.
+## 📸 Project Photos
+
+### Working Model
+![Working Model](working-model.jpg)
+
+### Power Plant Model
+![Power Plant Model](power-plant-model.jpg)
+
+### Complete Setup
+![Complete Setup](complete-setup.jpg)
