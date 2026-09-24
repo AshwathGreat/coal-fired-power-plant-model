@@ -14,7 +14,7 @@ The rotating turbine was connected to a generator, which converted the mechanica
 
 The model also represented the major stages of a conventional coal-fired power plant, including the furnace, turbine, generator, transformer, and power transmission lines.
 
-## 🔧 Key Features
+## Key Features
 
 - Built as a working physical model for a School Science Expo
 - Used a pressure-based turbine system
@@ -40,6 +40,6 @@ The model also represented the major stages of a conventional coal-fired power p
 
 The project was presented at a School Science Expo and received appreciation from the Chancellor of Anna University.
 
-## 📸 Project Photos
+## Project Photos
 
 Photos of the working model and demonstration are included in this repository.
